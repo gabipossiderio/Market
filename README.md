@@ -1,4 +1,4 @@
-# Have fun shopping at the best CLI marketplace on github 💜
+# Have fun shopping at the best CLI marketplace on GitHub 💜
 
 ## Instructions:
 
